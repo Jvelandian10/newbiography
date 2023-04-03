@@ -19,28 +19,6 @@ nav{
     padding: 20px;
 }
 
-nav ul li{
-
-    display: flex;
-    margin:0;
-    padding: px;
-    list-style:none;
-
-}
-
-nav ul ul li{
-    color:#FFF;
-    padding: 5px;
-    text-decoration: none;
-}
-
-nav ul ul ul li {
-    color:#FFF;
-    padding: 5px;
-    text-decoration: none;
-}
-
-
 aside{
 
     background-color: #ddd;
@@ -77,12 +55,4 @@ footer ul{
     padding: 0px;
     list-style:none;
 
-}
-
-
-footer ul li a{
-    color:#ddee46;
-    padding: 10px;
-    text-decoration: none;
-    
 }
